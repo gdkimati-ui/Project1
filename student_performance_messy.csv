@@ -1,0 +1,211 @@
+StudentID,Name,Age,Gender,Department,MathScore,ScienceScore,EnglishScore,Attendance(%),StudyHoursPerWeek,Passed
+STU0139,Halima Sani,23,Male,Statistics,39.3,95.8,63.1,89.8,21.0,0
+STU0121,Zainab Aliyu,27,Female,Statistics,40.9,57.6,81.5,96.7,29.7,0
+STU0147,Ngozi Eze,26,Female,Physics,42.9,188.88011418676126,99.4,46.9,29.9,YES
+STU0196,Ngozi Eze,25,Female,Computer Science,,74.6,37.2,97.0,35.2,no
+STU0046,Aisha Musa,22,,Computer Science,49.9,64.5,30.2,84.7,23.5,Yes
+STU0013,Musa Garba,25,Female,Engineering,36.7,78.5,160.45653955392572,60.6,16.5,no
+STU0153,Ada Okonkwo,23,Female,Computer Science,61.0,88.0,84.7,70.7,10.9,0
+STU0027,Aisha Musa,27,Male,Engineering,48.3,90.7,,41.4,,
+STU0116,Aminu Bello,22,Female,Mathematics,31.9,56.9,,88.3,39.3,YES
+STU0048,Fatima Usman,21,Male,Statistics,64.0,36.4,35.9,87.3,22.2,yes
+STU0155,Blessing Obi,26,Male,Computer Science,36.6,34.4,82.5,81.9,19.1,No
+STU0072,Musa Garba,22,Male,Engineering,46.1,46.3,67.5,,32.2,yes
+STU0120,Chioma Nwachukwu,26,F,Engineering,53.0,34.1,44.0,97.8,39.6,Yes
+STU0133,Yusuf Ibrahim,20,F,Computer Science,62.0,49.6,44.1,94.6,33.0,yes
+STU0192,Kunle Adeleke,24,Male,Physics,86.1,93.2,44.3,66.2,7.6,no
+STU0019,Fatima Usman,23,Male,Physics,81.5,,58.0,48.3,0.1,
+STU0107,Tunde Adeyemi,20,Female,Mathematics,72.8,94.3,94.2,55.2,36.4,Yes
+STU0176,Blessing Obi,18,Female,Engineering,62.5,48.8,46.0,83.9,22.9,No
+STU0085,Fatima Usman,25,Female,Physics,98.6,53.1,53.6,90.2,15.4,0
+STU0091,Blessing Obi,20,Female,Computer Science,57.6,83.7,95.4,68.9,1.5,Yes
+STU0030,Ngozi Eze,21,Male,Mathematics,69.1,77.6,54.2,62.5,20.9,No
+STU0130,Chidi Okafor,24,Female,Statistics,88.0,48.2,61.8,92.6,15.4,yes
+STU0118,Kunle Adeleke,24,Male,Statistics,60.7,94.1,97.8,76.2,24.0,1
+STU0199,Chioma Nwachukwu,-19,Male,Physics,,80.8,62.0,48.1,9.1,1
+STU0015,Yusuf Ibrahim,23,Male,,57.8,95.6,53.9,65.4,23.9,0
+STU0175,Blessing Obi,-25,Male,Mathematics,54.2,33.3,34.7,56.0,36.3,
+STU0177,Emeka Nwosu,18,female,Physics,75.5,31.6,68.0,,26.5,
+STU0063,Kunle Adeleke,19,Male,Mathematics,71.3,78.2,32.1,42.0,26.0,1
+STU0054,Blessing Obi,19,Male,Mathematics,42.5,37.9,83.2,67.9,7.7,YES
+STU0182,Kunle Adeleke,22,Male,Computer Science,31.1,87.1,41.7,64.3,34.7,1
+STU0127,Chidi Okafor,21,Male,Statistics,51.2,46.1,52.4,84.2,33.2,
+STU0179,Chidi Okafor,19,Male,Mathematics,96.4%,63.3,53.3,69.7,34.6,yes
+STU0129,Kunle Adeleke,24,Female,Engineering,52.9,55.2,55.8,47.4,1.9,1
+STU0016,Chioma Nwachukwu,22,Female,Computer Science,66.2,32.7,67.6,57.3,18.4,No
+STU0052,Musa Garba,18,Female,Statistics,31.3,96.2,94.7,91.8,4.8,yes
+STU0095,Tunde Adeyemi,24,Female,Statistics,77.0,46.6,64.1,60.1,15.9,0
+STU0157,Zainab Aliyu,18,Female,Computer Science,95.4,39.4,87.8,53.1,34.1,no
+STU0092,Aisha Musa,,Female,stats,89.1,87.6,30.5,69.8,19.2,0
+STU0187,Aminu Bello,22,Male,Statistics,73.1,63.6,99.8,51.1,13.4,1
+STU0068,Zainab Aliyu,25,Male,Mathematics,54.5,57.8,42.8,52.8,21.2,
+STU0186,Tunde Adeyemi,19,,Physics,77.9,71.3,70.1,97.5,6.4,no
+STU0034,Chioma Nwachukwu,20,Male,Mathematics,89.3,67.4,67.4,90.4,25.6,1
+STU0143,Aisha Musa,26,Male,Statistics,57.9,35.8%,89.6,91.7,39.9,
+STU0164,Aminu Bello,21,Male,,,71.0%,77.8,89.4,0.2,1
+STU0200,Tunde Adeyemi,23,Female,Computer Science,44.5,68.3,72.3,69.0,36.3,no
+STU0128,Musa Garba,22,Female,Mathematics,67.6,48.6,71.6,90.9,4.8,no
+STU0138,Chidi Okafor,22,Male,Physics,39.7,35.3,38.2,42.1,23.9,no
+STU0172,Chidi Okafor,18,Male,Statistics,31.2,44.5,54.9,46.4,2.5,0
+STU0152,Ngozi Eze,24,Female,Computer Science,,57.5,33.4,69.1,15.6,0
+STU0033,Blessing Obi,22,Male,Physics,79.0,56.4,68.4,46.3,30.3,No
+STU0180,Emeka Nwosu,23,Male,stats,92.1,88.2,81.1,74.4,29.4,Yes
+STU0166,Emeka Nwosu,18,m,Mathematics,167.09398333582007,83.0,80.0,88.9,2.0,YES
+STU0104,Aisha Musa,24,Male,Statistics,50.8,52.6,99.8,92.0,28.6,1
+STU0123,Aminu Bello,20,Female,Statistics,88.7,53.5,188.38897507214193,64.4,16.1,1
+STU0077,Blessing Obi,-26,Male,Statistics,173.49722569954716,93.5,75.4,58.6,17.1,no
+STU0029,Halima Sani,24,,,97.6,46.7,87.5,86.3,27.6,0
+STU0023,Aisha Musa,27,0,Engineering,46.0,81.2,58.8,75.6,12.6,No
+STU0075,Fatima Usman,25,Female,Engineering,83.8,91.6,63.2,51.1,29.5,
+STU0071,Ada Okonkwo,25,Male,Engineering,90.5,65.9,36.2,67.5,22.9,0
+STU0009,Chioma Nwachukwu,,,Mathematics,45.4,77.7,83.8,83.0,19.0,
+STU0110,Fatima Usman,20 years,Female,Physics,74.0,,64.4,75.7,15.7,
+STU0088,Halima Sani,18,Female,Mathematics,43.4,58.4,47.1,82.8,0.4,1
+STU0149,Chidi Okafor,21,Male,Computer Science,60.0,99.0,56.5,99.1,35.8,Yes
+STU0081,Kunle Adeleke,24,Male,Engineering,96.7,63.7,69.0,61.0,39.6,yes
+STU0061,Fatima Usman,21,Male,Mathematics,74.5,79.4,89.1,74.7,20.9,Yes
+STU0142,Musa Garba,24,Female,Statistics,32.9,94.3,37.5,61.8,19.6,No
+STU0086,Blessing Obi,-25,Male,Physics,35.3,60.4,93.0,75.2,37.3,yes
+STU0161,Fatima Usman,23,Male,Engineering,60.5,67.4,93.6,94.0,29.4,Yes
+STU0195,Yusuf Ibrahim,23,Female,Engineering,,72.6,82.8,76.6,18.6,YES
+STU0158,Halima Sani,20,Female,,74.7,31.0,43.0,78.7,1.4,No
+STU0073,Musa Garba,19,Female,Computer Science,64.9,70.7,46.3,91.6,21.5,no
+STU0162,Emeka Nwosu,25,Male,Statistics,81.1,82.5,52.1,81.5,11.3,no
+STU0184,Fatima Usman,18,Male,Computer Science,65.1,36.2,64.7,65.3,9.8,0
+STU0183,Ada Okonkwo,18,Female,Statistics,95.3%,97.8,91.5,86.3,,0
+STU0064,Emeka Nwosu,27,Male,Mathematics,98.5,88.6,90.7%,58.7,14.6,no
+STU0057,Fatima Usman,,Male,Eng.,80.5,99.7,34.4,75.2,31.8,YES
+STU0083,Ngozi Eze,25,Male,,68.7,79.4,69.5,77.5,7.4,
+STU0140,Fatima Usman,21,Male,Mathematics,97.9,59.2,72.4,60.7,10.4,No
+STU0043,Zainab Aliyu,27,Male,Physics,56.1,97.0,65.8,53.6,2.1,0
+STU0137,Chidi Okafor,26,Male,Statistics,79.0,39.3,,61.8,20.7,no
+STU0171,Halima Sani,20,Male,Mathematics,42.3,49.2,70.4,83.2,39.7,
+STU0102,Aminu Bello,18,Male,,79.6,98.5%,31.3,98.7,11.9,
+STU0001,Chioma Nwachukwu,24,Male,Engineering,57.9,49.2,,70.1,10.8,1
+STU0145,Aisha Musa,18,Male,Physics,82.1,68.6,58.6,98.5,18.5,Yes
+STU0090,Fatima Usman,20,Female,Computer Science,,81.9,53.1,72.1,3.5,no
+STU0074,Musa Garba,22,Female,Mathematics,70.0,90.4,54.0,72.1,26.5,YES
+STU0080,Musa Garba,26,Female,Statistics,82.3,79.6,81.6,88.0,18.5,no
+STU0114,Fatima Usman,20,Female,,33.6%,99.7,67.5,73.4,10.4,
+STU0067,Aminu Bello,21,Male,Physics,60.4,45.6,81.6,53.2,35.4,yes
+STU0010,Tunde Adeyemi,22,0,Engineering,79.8,53.8,34.6,75.9,13.8,Yes
+STU0011,Chidi Okafor,21,Female,,86.7,48.2,33.2,89.6,14.1,
+STU0031,Yusuf Ibrahim,26,Female,Computer Science,91.8,81.8,54.3,44.1,3.5,Yes
+STU0047,Emeka Nwosu,19 years,MALE,Mathematics,51.4,,90.8,52.3,40.0,0
+STU0023,Aisha Musa,27,0,Engineering,46.0,81.2,58.8,75.6,12.6,No
+STU0185,Fatima Usman,-20,Female,Engineering,67.8,85.4,81.9,61.2,6.3,YES
+STU0036,Fatima Usman,22,Male,Mathematics,58.3,57.3,92.6,47.4,29.0,No
+STU0168,Zainab Aliyu,,F,Computer Science,36.6,46.9,73.7,44.0,38.5,yes
+STU0159,Kunle Adeleke,-27,Male,Computer Science,66.2,35.3,46.5,65.3,13.2,Yes
+STU0160,Musa Garba,25,Male,Engineering,76.0,78.4,74.4,47.9,37.3,
+STU0065,Ada Okonkwo,19,Male,Mathematics,64.1,191.92403818819926,54.8,86.8,22.4,no
+STU0005,Ngozi Eze,24,Male,stats,65.6,73.3,78.8,86.3,33.9,Yes
+STU0101,Aminu Bello,19,Male,,39.6%,86.1,33.6,88.0,18.7,
+STU0163,Chioma Nwachukwu,26,Female,Engineering,33.3,93.9,71.2,81.0,10.1,Yes
+STU0144,Musa Garba,24,Female,PHYSICS,60.3%,91.4,82.2,53.2,35.9,yes
+STU0028,Halima Sani,20,Male,Physics,99.7,69.3,45.7,79.1,31.6,0
+STU0112,Zainab Aliyu,20,Male,Engineering,35.0,45.2,87.5,74.2,38.3,0
+STU0017,Aisha Musa,19,Female,Mathematics,88.6,59.3,62.2,76.9,3.0,
+STU0070,Halima Sani,26,MALE,Engineering,76.8,40.3,88.8,98.5,16.2,No
+STU0113,Ada Okonkwo,22,Male,Engineering,57.8,50.6,80.3,93.2,31.9,yes
+STU0124,Halima Sani,24,Male,Computer Science,90.2,41.9,,59.4,33.5,No
+STU0149,Chidi Okafor,21,Male,Computer Science,60.0,99.0,56.5,99.1,35.8,Yes
+STU0089,Emeka Nwosu,25 years,female,Statistics,174.26399371381578,70.0,64.9,71.7,2.1,YES
+STU0103,Chioma Nwachukwu,24,MALE,Physics,68.7,,78.8,90.4,34.1,YES
+STU0151,Kunle Adeleke,20,Male,Physics,34.1,82.5,80.5,50.9,18.3,no
+STU0102,Aminu Bello,18,Male,,79.6,98.5%,31.3,98.7,11.9,
+STU0060,Blessing Obi,27,Male,Mathematics,65.6,68.2,78.1,54.9,18.2,1
+STU0146,Aminu Bello,18,Male,Physics,47.6,41.5,95.3,86.8,24.9,
+STU0194,Ada Okonkwo,-18,Male,Mathematics,156.4250176616955,98.6,64.6,83.3,38.5,1
+STU0109,Yusuf Ibrahim,23,Male,Physics,30.4,,98.3,70.3,4.4,yes
+STU0038,Ada Okonkwo,24,Male,Statistics,89.6,37.0,53.1,49.9,39.2,No
+STU0069,Kunle Adeleke,24,Female,Physics,75.2,92.4,69.5%,70.9,17.6,No
+STU0198,Yusuf Ibrahim,,F,Mathematics,,36.4,56.5,97.2,32.8,1
+STU0178,Kunle Adeleke,19,,Computer Science,33.4,64.9,60.2,78.0,21.8,1
+STU0002,Ada Okonkwo,,Male,Physics,87.2,45.0,93.7,72.4,21.6,YES
+STU0078,Chidi Okafor,26,Female,math,,71.4,63.6,63.8,35.1,0
+STU0191,Musa Garba,21,Female,Statistics,74.5,86.4,40.0,90.2,28.0,1
+STU0174,Aisha Musa,18,Male,Mathematics,86.5,,,55.8,20.6,0
+STU0042,Aminu Bello,19,F,Physics,70.6,54.8,78.1,58.7,27.7,1
+STU0189,Yusuf Ibrahim,23,Male,Engineering,96.1,84.9,,86.3,37.2,YES
+STU0181,Blessing Obi,24,Male,Statistics,48.3,,78.6,90.3,20.9,0
+STU0008,Aisha Musa,24,Male,math,52.8,57.0,88.9,73.9,24.9,YES
+STU0026,Kunle Adeleke,18,Male,Computer Science,66.2,70.6,98.1,87.4,,1
+STU0099,Aisha Musa,26,,Computer Science,52.6,67.0,33.9,93.8,29.3,yes
+STU0021,Tunde Adeyemi,22,Female,Mathematics,67.9,69.8,42.6,55.4,0.2,1
+STU0040,Fatima Usman,21,1,Statistics,85.0,97.1,36.5,90.2,25.9,0
+STU0018,Chidi Okafor,25,Male,Computer Science,77.3,97.7,70.9%,94.7,3.1,0
+STU0165,Zainab Aliyu,18,Female,Mathematics,41.1,80.8,61.6,71.8,27.8,
+STU0193,Musa Garba,25,Female,Statistics,77.4,73.2,80.0,94.9,35.3,1
+STU0125,Fatima Usman,18,Female,Statistics,47.5,75.3,65.4,45.2,,Yes
+STU0115,Blessing Obi,18,Female,Mathematics,92.1,78.8,63.4,,23.5,YES
+STU0039,Ada Okonkwo,19,Female,Engineering,95.5,33.7,52.5,51.2,36.1,no
+STU0006,Fatima Usman,27,Female,Physics,78.7,53.6%,85.8,40.7,38.2,no
+STU0079,Musa Garba,18,Female,COMP SCI,91.8,54.5,70.9,65.6,16.7,no
+STU0066,Kunle Adeleke,27,Male,Mathematics,93.4,59.8,155.24345832662405,56.7,19.2,yes
+STU0098,Aisha Musa,24,Male,Physics,50.7,35.8,86.4,56.3,20.9,1
+STU0117,Zainab Aliyu,27,Female,Statistics,70.5,81.6,44.4,99.3,35.4,YES
+STU0167,Musa Garba,27,Male,Physics,36.4,56.4,93.0,69.9,21.3,
+STU0169,Tunde Adeyemi,24 years,Male,Engineering,51.8,,67.8,64.3,4.4,Yes
+STU0050,Musa Garba,25,Female,,99.6,,99.0,46.9,18.9,
+STU0020,Musa Garba,19,Male,Computer Science,44.6,59.6,78.8,,38.7,No
+STU0126,Emeka Nwosu,21,Female,Physics,32.7,57.2,95.2,78.0,9.2,No
+STU0108,Yusuf Ibrahim,25,Female,Mathematics,35.7,47.7,30.4,51.8,1.8,no
+STU0004,Yusuf Ibrahim,22,Male,Computer Science,40.6,32.7,66.7,64.5,33.7,Yes
+STU0170,Halima Sani,19,Male,Engineering,98.6,47.6,60.7,69.8,35.8,yes
+STU0148,Ngozi Eze,26,Male,Mathematics,35.7,63.6,44.4,,1.4,no
+STU0024,Chidi Okafor,23,Male,,42.2,38.9,91.2,46.1,32.3,yes
+STU0094,Emeka Nwosu,27,0,Statistics,160.44593588076802,77.7,55.6,46.2,10.9,yes
+STU0049,Ngozi Eze,24,Female,Mathematics,61.4,72.2,71.8,,,1
+STU0076,Musa Garba,27,Male,Statistics,33.1,46.6,54.9,58.0,20.8,1
+STU0135,Musa Garba,19 years,Female,Computer Science,43.6,72.2,36.2,60.2,25.2,no
+STU0097,Musa Garba,26,Male,Engineering,47.8,63.4,36.2,85.2,13.5,yes
+STU0093,Kunle Adeleke,22,Female,Engineering,,82.1,45.8,85.9,23.2,Yes
+STU0035,Emeka Nwosu,-24,Male,Physics,89.9,64.8,54.9,94.6,30.4,Yes
+STU0156,Chidi Okafor,22,Female,Engineering,42.8,32.6,86.0,64.2,1.8,0
+STU0131,Ngozi Eze,21,Female,Statistics,49.0,61.7,68.4,78.6,1.5,YES
+STU0059,Fatima Usman,23,Female,Engineering,68.0,81.6,39.3,94.8,2.2,YES
+STU0105,Musa Garba,25,Female,Engineering,59.4,33.0,92.8,64.5,23.6,YES
+STU0056,Ngozi Eze,21,Female,Statistics,82.1,98.2,80.4,95.1,16.9,YES
+STU0096,Ngozi Eze,27,Male,Engineering,55.1,58.0,89.6,44.5,3.7,
+STU0037,Ada Okonkwo,26,,Engineering,92.1,50.8,39.0,,25.5,Yes
+STU0150,Kunle Adeleke,-26,Male,Computer Science,,56.4%,94.9%,68.3,34.4,0
+STU0146,Aminu Bello,18,Male,Physics,47.6,41.5,95.3,86.8,24.9,
+STU0082,Zainab Aliyu,26,Male,Engineering,53.2,56.5,71.1,,0.0,1
+STU0044,Zainab Aliyu,26,Male,Statistics,95.8,77.4,41.0,,26.8,1
+STU0051,Ngozi Eze,20,Male,Computer Science,42.3,44.9,67.6,64.9,12.5,
+STU0032,Aminu Bello,20,Male,Statistics,163.9435676296091,46.7,32.2,44.6,38.3,Yes
+STU0053,Halima Sani,21,Female,Statistics,64.6,84.7,46.5,953.776139079091,29.2,
+STU0119,Yusuf Ibrahim,,Female,,77.0,97.1,79.8,88.4,36.1,1
+STU0136,Aminu Bello,27,Female,Mathematics,58.8,49.0,39.7,895.0643988535958,8.7,No
+STU0173,Ngozi Eze,22,1,Mathematics,83.4,91.5,57.4,48.4,35.3,No
+STU0100,Tunde Adeyemi,-25,Female,Mathematics,89.4,60.5,89.0,71.6,0.1,no
+STU0055,Yusuf Ibrahim,25,Female,Mathematics,55.7,95.2,67.2,68.9,4.6,No
+STU0147,Ngozi Eze,26,Female,Physics,42.9,188.88011418676126,99.4,46.9,29.9,YES
+STU0122,Fatima Usman,27,Female,Mathematics,98.7,37.5,67.1,48.5,2.6,
+STU0045,Halima Sani,27,Female,Mathematics,98.2,63.8,56.4,62.8,1.8,no
+STU0025,Fatima Usman,26,Male,Mathematics,98.8,47.5,66.1,95.1,38.5,No
+STU0141,Chidi Okafor,27,Female,Computer Science,80.0,70.7,85.6,86.4,20.6,yes
+STU0190,Halima Sani,24,Male,Statistics,90.7,74.8,84.5,44.1,4.2,1
+STU0087,Yusuf Ibrahim,20,Female,Physics,51.4,47.8,72.5,57.6,2.8,yes
+STU0012,Blessing Obi,25,Male,Physics,54.4,64.7,73.5,97.5,,No
+STU0014,Zainab Aliyu,20,Female,Engineering,95.8%,54.4,70.6,53.6,28.2,1
+STU0106,Ngozi Eze,22,Male,Engineering,47.9,,70.3,73.1,11.1,1
+STU0188,Yusuf Ibrahim,27,Male,Physics,96.1,59.4,82.7,45.4,9.5,YES
+STU0041,Ada Okonkwo,26,Male,Computer Science,76.8,89.3,63.7,59.9,,1
+STU0197,Yusuf Ibrahim,22,Male,Computer Science,73.8,68.8,67.6,637.9896238312325,0.2,YES
+STU0003,Halima Sani,25,Female,Mathematics,85.9,56.4,50.9,69.2,6.5,no
+STU0049,Ngozi Eze,24,Female,Mathematics,61.4,72.2,71.8,,,1
+STU0154,Ada Okonkwo,25,Male,Computer Science,46.8,69.8,88.0,845.0121665371994,,1
+STU0022,Musa Garba,18,Male,Engineering,78.7,,78.8,83.6,4.1,
+STU0058,Chidi Okafor,23,Male,Computer Science,51.6,33.9,40.3,42.0,29.8,yes
+STU0134,Blessing Obi,23,Male,Computer Science,88.9,58.8,77.9,77.5,32.0,yes
+STU0132,Ada Okonkwo,24,Female,Mathematics,97.6,32.3,68.4,82.2,38.3,1
+STU0090,Fatima Usman,20,Female,Computer Science,,81.9,53.1,72.1,3.5,no
+STU0005,Ngozi Eze,24,Male,stats,65.6,73.3,78.8,86.3,33.9,Yes
+STU0007,Ngozi Eze,20,m,Physics,90.1,75.9,62.2,75.9,6.2,YES
+STU0127,Chidi Okafor,21,Male,Statistics,51.2,46.1,52.4,84.2,33.2,
+STU0111,Ada Okonkwo,18,Male,Mathematics,43.6,41.6,80.6,60.4,5.0,no
+STU0135,Musa Garba,19 years,Female,Computer Science,43.6,72.2,36.2,60.2,25.2,no
+STU0084,Kunle Adeleke,18,Female,,70.1,47.4,56.5,62.7,,YES
+STU0062,Blessing Obi,23,Male,Mathematics,47.5,97.8,82.5,49.9,25.8,yes
